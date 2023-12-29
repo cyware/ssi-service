@@ -1,31 +1,31 @@
 ---
-name: 🐛 Bug Report
-about: Thank you for taking the time, please report a reproducible bug
+name: Bug Report
+about: Create a report to help us improve
 title: "[Bug] <Bug Title Here>"
 labels: bug
-assignees: add codeowner's @name here 
+assignees: nitro-neal, decentralgabe, andresuribe87
 
 ---
 
 **Describe the bug**
 *A clear and concise description of what the bug is.*
 
-**To Reproduce:**
+**To Reproduce**
 *Steps to reproduce the behavior:*
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior:**
+**Expected behavior**
 *A clear and concise description of what you expected to happen.*
 
 **Supporting Material**
-*If applicable, add screenshots, output log and/or other documentation to help explain your problem.*
+*If applicable, add screenshots and/or other documentation to help explain your problem.*
 
 **Environment (please complete the following information):**
- - OS: [ex: iOS]
- - Version 
+ - OS: [e.g. iOS]
+ - Version [e.g. 22]
 
 **Additional context**
-Add any other context that you feel is relevant about the problem here.
+Add any other context about the problem here.
