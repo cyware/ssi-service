@@ -7,7 +7,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.31.0
 	github.com/ardanlabs/conf v1.5.0
 	github.com/benbjohnson/clock v1.3.5
-	github.com/btcsuite/btcd/chaincfg/chainhash v1.0.2
+	github.com/btcsuite/btcd/chaincfg/chainhash v1.1.0
 	github.com/cenkalti/backoff/v4 v4.2.1
 	github.com/cyware/ssi-sdk v0.0.0-20231229164914-f93f3006379f
 	github.com/fergusstrange/embedded-postgres v1.24.0
